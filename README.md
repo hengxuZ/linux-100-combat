@@ -10,5 +10,5 @@
 
 ## 例子
 
-[01.谁说学linux必须搭建虚拟机(一分钟使用上linux)](https://github.com/hengxuZ/linux-100-combat)
+[01.谁说学linux必须搭建虚拟机(一分钟用上linux)](https://github.com/hengxuZ/linux-100-combat/blob/master/lesson/01.%E4%B8%8D%E7%94%A8%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B9%9F%E8%83%BD%E5%AD%A6linux.md)
 
